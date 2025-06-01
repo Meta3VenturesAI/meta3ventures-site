@@ -1,0 +1,17 @@
+{
+  "name": "meta3ventures-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@sveltejs/adapter-netlify": "^3.0.2",
+    "@sveltejs/kit": "^1.30.3",
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "svelte": "^4.2.12",
+    "vite": "^5.2.0"
+  }
+}
